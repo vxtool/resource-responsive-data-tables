@@ -1,7 +1,7 @@
-# Get APIs of Social Network
+# Responsive Data Tables
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/resource-solutions/resource-js-apis-socialnetwork.svg?style=flat-square)](https://github.com/resource-solutions/resource-js-apis-socialnetwork/issues)
+[![issues](https://img.shields.io/github/issues/resource-solutions/resource-responsive-data-tables.svg?style=flat-square)](https://github.com/resource-solutions/resource-responsive-data-tables/issues)
 
 ## Contributing
 
@@ -13,7 +13,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/resource-solutions/resource-js-apis-socialnetwork/releases) for detailed changelog.
+Check [Releases](https://github.com/resource-solutions/resource-responsive-data-tables/releases) for detailed changelog.
 
 ## License
 
